@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+{% include head.html %}
+<body class="home blog" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+	<div id="container" class="site-main">
+		{% include header.html %}
+
+	    <div id="main" class="site">
+			<div id="primary" class="content-area">
+				<div id="content" class="site-content" role="main">
+					{{ content }}
+				</div><!-- #content .site-content -->
+			</div><!-- #primary .content-area -->
+		</div><!-- #main .site -->
+
+		{% include footer.html %}
+
+	</div>
+</body>
+</html>

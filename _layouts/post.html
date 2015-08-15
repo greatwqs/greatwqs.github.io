@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="post-header">
+	<h2 class="post-title">{{ page.title }}</h2>
+	<p class="post-meta">
+		<span class="author vcard">
+			<a class="url fn n" rel="author" title="查看作者 {{ page.author }} 发布的所有文章" href="/">
+				<span itemtype="http://schema.org/Person" itemprop="author">
+					<span itemprop="name">{{page.author}}</span>
+				</span>
+			</a>
+		</span> | 
+
+		<span class="time">
+			<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{page.date | date:"%Y-%m-%d"}}</time>
+		</span>
+
+		{% if page.categories.size != 0 %}
+		 | 
+		<span class="categories">
+		  {% for cat in page.categories %}
+		  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{cat}}</a>
+		  {% endfor %}
+		</span>
+		{% endif %}
+
+		{% if page.tags.size != 0 %}
+		 | 
+		<span class="tags">
+		  {% for tag in page.tags %}
+		  <a href="/tags/#{{ tag }}" title="{{ tag }}">{{tag}}</a>
+		  {% endfor %}
+		</span>
+		{% endif %}
+	</p>
+</div>
+
+<article class="post-content">
+  {{ content }}
+</article>
+
+<div class="related-post">
+	<h3 class="related-post-title">相关文章</h3>
+	<ul>
+	{% for post in site.related_posts limit:3 %}
+		<li><a href="{{ post.url | prepend: site.baseurl }}" class="post-link related-post-title">{{ post.title }}</a></li>
+	{% endfor %}
+	</ul>
+</div>
+
+{% if site.comments %}
+  {% include comments.html %}
+{% endif %}

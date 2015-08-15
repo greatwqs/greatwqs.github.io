@@ -1,0 +1,31 @@
+# Dependencies
+markdown: redcarpet
+highlighter: pygments
+
+excerpt_separator: "<!--more-->"
+
+# Permalinks
+permalink: /:title
+timezone: Asia/Hong_Kong
+
+# Setup
+title: 常阳时光(SYN)
+description: '这是常阳时光(cyhour.com)的 Github 同步更新站.'
+baseurl:     ''
+url:         'http://syn.cyhour.com'
+
+gems:
+  - jekyll-sitemap
+
+author:
+  name: '老杨'
+  url: http://syn.cyhour.com
+  email: i@cyhour.com
+
+paginate: 8
+
+# Custom vars
+show_related_posts: true
+
+google_analytics: UA-48556550-3
+comments: true
