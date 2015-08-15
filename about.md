@@ -5,7 +5,7 @@ permalink: /about/
 date: 2015-08-16
 ---
 
-这是一个同步站，主站：花溪乡网 http://huaxixiang.com
+这是一个同步站，主站：花溪乡网 http://www.huaxixiang.com
 
 谨以此博记录老家巴中花溪乡的风土人情.
 
@@ -14,7 +14,7 @@ date: 2015-08-16
 <h3>联系方式</h3>
 <ul>
 	<li>E-Mali：greatwqs#163#com</li>
-	<li>Feed订阅：<a href="//cyhour.com/feed" target="_blank">http://cyhour.com/feed</a></li>
+	<li>Feed订阅：<a href="//www.huaxixiang.com/feed" target="_blank">http://www.huaxixiang.com/feed</a></li>
 	<li>邮件订阅：<a href="/out/qqlist" target="_blank">QQ邮件订阅</a></li>
 </ul>
 

@@ -9,8 +9,8 @@ permalink: /:title
 timezone: Asia/Hong_Kong
 
 # Setup
-title: 花溪乡网(huaxixiang.com)
-description: '花溪乡网(huaxixiang.com)的 Github 同步更新站.'
+title: 花溪乡网(www.huaxixiang.com)
+description: '花溪乡网(www.huaxixiang.com)的 Github 同步更新站.'
 baseurl:     ''
 url:         'http://greatwqs.github.io'
 
@@ -19,8 +19,8 @@ gems:
 
 author:
   name: 'Eagle'
-  url: http://huaxixiang.com
-  email: admin@huaxixiang.com
+  url: http://greatwqs.github.io
+  email: greatwqs@163.com
 
 paginate: 8
 
