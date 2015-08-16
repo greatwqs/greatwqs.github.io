@@ -12,14 +12,14 @@ timezone: Asia/Hong_Kong
 title: 花溪乡网(www.huaxixiang.com)
 description: '花溪乡网(www.huaxixiang.com)的 Github 同步更新站.'
 baseurl:     ''
-url:         'http://greatwqs.github.io'
+url:         'http://www.huaxixiang.com'
 
 gems:
   - jekyll-sitemap
 
 author:
   name: 'Eagle'
-  url: http://greatwqs.github.io
+  url: http://www.huaxixiang.com
   email: greatwqs@163.com
 
 paginate: 8
