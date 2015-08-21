@@ -11,15 +11,12 @@ date: 2015-08-16
 
 四川省巴中市巴州区花溪乡网站, 记录花溪乡的点点滴滴;
 
-巴中市花溪乡官网QQ群: 83900074, 欢迎老乡加入;
-
-站长E-mail: greatwqs#163.com, #换到@符号;
-
 <span style = "color:blue;">建议使用 Firefox、Chrome 或者 Safari 浏览本站。</span>
 
 <h3>联系方式</h3>
 <ul>
-	<li>E-Mali：greatwqs#163#com</li>
+    <li>官网QQ群：83900074</li>
+	<li>站长E-Mali：greatwqs#163#com</li>
 	<li>Feed订阅：<a href="//www.huaxixiang.com/feed" target="_blank">http://www.huaxixiang.com/feed</a></li>
 	<li>邮件订阅：<a href="/out/qqlist" target="_blank">QQ邮件订阅</a></li>
 </ul>
