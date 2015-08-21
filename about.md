@@ -9,6 +9,12 @@ date: 2015-08-16
 
 谨以此博记录老家巴中花溪乡的风土人情.
 
+四川省巴中市巴州区花溪乡网站, 记录花溪乡的点点滴滴;
+
+巴中市花溪乡官网QQ群: 83900074, 欢迎老乡加入;
+
+站长E-mail: greatwqs#163.com, #换到@符号;
+
 <span style = "color:blue;">建议使用 Firefox、Chrome 或者 Safari 浏览本站。</span>
 
 <h3>联系方式</h3>
@@ -17,6 +23,7 @@ date: 2015-08-16
 	<li>Feed订阅：<a href="//www.huaxixiang.com/feed" target="_blank">http://www.huaxixiang.com/feed</a></li>
 	<li>邮件订阅：<a href="/out/qqlist" target="_blank">QQ邮件订阅</a></li>
 </ul>
+
 
 
 <h3>版权</h3>
